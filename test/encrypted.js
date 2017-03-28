@@ -1,7 +1,7 @@
 'use strict';
 
 const should = require('should');
-const Config = require('../lib/config').Config;
+const Config = require('../lib/config');
 
 // This is how we specify the config directory
 process.env.NODE_CONFIG_DIR = __dirname + '/encrypted';

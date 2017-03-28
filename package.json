@@ -1,5 +1,5 @@
 {
-  "name": "node-crypto-config",
+  "name": "crypto-config",
   "version": "0.0.1",
   "description": "Small Node config extension which supports encryption",
   "author": {
