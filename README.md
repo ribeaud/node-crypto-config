@@ -1,13 +1,13 @@
-simple-crypto
-=====================
+node-crypto-config
+=============
 
-Cryptography utility built with [Node.js] (http://nodejs.org) and [Crypto module] (http://nodejs.org/docs/latest/api/crypto.html).
+Small **Node** [Config] (https://github.com/lorenwest/node-config) which supports encryption.
 
 Installation
 ------------
 
 ```bash
-  npm install simple-crypto
+  npm install node-crypto-config
 ```
 
 License
