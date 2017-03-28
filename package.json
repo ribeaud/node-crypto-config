@@ -1,6 +1,6 @@
 {
   "name": "crypto-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Small Node config extension which supports encryption",
   "author": {
     "name": "Christian Ribeaud",

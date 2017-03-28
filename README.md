@@ -1,4 +1,4 @@
-[![NPM](https://nodei.co/npm/node-crypto-config.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/node-crypto-config/)
+[![NPM](https://nodei.co/npm/crypto-config.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/crypto-config/)
 [![Build Status](https://travis-ci.org/ribeaud/node-crypto-config.svg?branch=master)](https://travis-ci.org/ribeaud/node-crypto-config)
 
 node-crypto-config
@@ -10,5 +10,5 @@ Installation
 ------------
 
 ```bash
-  npm install node-crypto-config
+  npm install crypto-config
 ```
