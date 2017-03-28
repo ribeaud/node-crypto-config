@@ -1,0 +1,18 @@
+{
+  "string": "ENC(a)",
+  "int": 1,
+  "array": [
+    2,
+    "ENC(b)",
+    3
+  ],
+  "obj": {
+    "string": "ENC()",
+    "int": 4,
+    "array": [
+      5,
+      "ENC(c)",
+      6
+    ]
+  }
+}

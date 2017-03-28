@@ -1,7 +1,10 @@
+[![NPM](https://nodei.co/npm/node-crypto-config.svg?downloads=true&downloadRank=true)](https://nodei.co/npm/node-crypto-config/)
+[![Build Status](https://travis-ci.org/ribeaud/node-crypto-config.svg?branch=master)](https://travis-ci.org/ribeaud/node-crypto-config)
+
 node-crypto-config
 =============
 
-Small **Node** [Config](https://github.com/lorenwest/node-config) which supports encryption.
+Small **Node** [Config](https://github.com/lorenwest/node-config) extension which supports encryption.
 
 Installation
 ------------

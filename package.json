@@ -1,7 +1,7 @@
 {
   "name": "node-crypto-config",
   "version": "0.0.1",
-  "description": "Node config with crypto flavour",
+  "description": "Small Node config extension which supports encryption",
   "author": {
     "name": "Christian Ribeaud",
     "email": "christian.ribeaud@canoo.com"

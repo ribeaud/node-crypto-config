@@ -1,2 +1,6 @@
 .git*
 .DS_Store
+/.idea/
+/node_modules/
+/test/
+/node-crypto-config.iml

@@ -3,5 +3,4 @@ sudo: false
 before_install:
   - npm update -g npm
 node_js:
-  - "6"
   - "4"
